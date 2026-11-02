@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e7654e537befbae5bc935ebeb1a6cc230d6603a9",
     "author": "Juan Pablo Rivera Mercado",
     "commit": {
       "date": "2026-11-02T20:11:07.000Z",
       "message": "test: segunda prueba",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/e7654e537befbae5bc935ebeb1a6cc230d6603a9"
     },
     "stats": {
       "total": 6,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo Rivera Mercado",
+    "commit": {
+      "date": "2026-11-02T20:26:45.000Z",
+      "message": "test: prueba en rama B",
+      "url": "https://github.com/Jpriveram/TDDLabScriptTests/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 7,
+      "deletions": 0,
+      "date": "2026-11-02"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
