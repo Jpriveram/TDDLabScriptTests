@@ -44,9 +44,29 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "65daf5f23637db00c261e57ad5a0487c07792c01",
     "commitName": "test: prueba en rama A",
     "commitTimestamp": 1793650973357,
     "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1793651181798,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: prueba en rama B",
+    "commitTimestamp": 1793651206476,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "merge: integrar rama B",
+    "commitTimestamp": 1793652735662,
+    "testId": 3
   }
 ]

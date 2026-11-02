@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "65daf5f23637db00c261e57ad5a0487c07792c01",
     "author": "Juan Pablo Rivera Mercado",
     "commit": {
       "date": "2026-11-02T20:22:51.000Z",
       "message": "test: prueba en rama A",
-      "url": "https://github.com/Jpriveram/TDDLabScriptTests/commit/HEAD"
+      "url": "https://github.com/Jpriveram/TDDLabScriptTests/commit/65daf5f23637db00c261e57ad5a0487c07792c01"
     },
     "stats": {
       "total": 3,
@@ -53,6 +53,44 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo Rivera Mercado",
+    "commit": {
+      "date": "2026-11-02T20:26:45.000Z",
+      "message": "test: prueba en rama B",
+      "url": "https://github.com/Jpriveram/TDDLabScriptTests/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 7,
+      "deletions": 0,
+      "date": "2026-11-02"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo Rivera Mercado",
+    "commit": {
+      "date": "2026-11-02T20:52:14.000Z",
+      "message": "merge: integrar rama B",
+      "url": "https://github.com/Jpriveram/TDDLabScriptTests/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 7,
+      "deletions": 0,
+      "date": "2026-11-02"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
