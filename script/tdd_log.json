@@ -30,9 +30,23 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "e7654e537befbae5bc935ebeb1a6cc230d6603a9",
     "commitName": "test: segunda prueba",
     "commitTimestamp": 1793650269000,
     "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1793650941989,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: prueba en rama A",
+    "commitTimestamp": 1793650973357,
+    "testId": 2
   }
 ]
