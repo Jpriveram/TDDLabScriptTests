@@ -1,0 +1,16 @@
+[
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1793649676989,
+    "success": true,
+    "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: prueba inicial",
+    "commitTimestamp": 1793649906666,
+    "testId": 0
+  }
+]
