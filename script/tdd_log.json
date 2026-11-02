@@ -8,9 +8,31 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "7da864ccc5e09df96f98bb06e3864ddfa953fa21",
     "commitName": "test: prueba inicial",
     "commitTimestamp": 1793649906666,
     "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1793650170698,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1793650238832,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: segunda prueba",
+    "commitTimestamp": 1793650269000,
+    "testId": 1
   }
 ]
